@@ -1,0 +1,23 @@
+{
+  "name": "pdf417-ts",
+  "version": "1.0.0",
+  "description": "To generate PDF417 using Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanstnsk/PDF417-ts.git"
+  },
+  "keywords": [
+    "PDF417",
+    "typescript"
+  ],
+  "author": "ivanstnsk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivanstnsk/PDF417-ts/issues"
+  },
+  "homepage": "https://github.com/ivanstnsk/PDF417-ts#readme"
+}
