@@ -1,1 +1,1 @@
-export const test = (message: string): string => `Test ${message}`;
+export const printTestMessage = (message: string): string => `Test ${message}`;
