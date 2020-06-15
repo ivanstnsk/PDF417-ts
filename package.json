@@ -4,6 +4,7 @@
   "description": "To generate PDF417 using Typescript",
   "main": "index.js",
   "scripts": {
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ivanstnsk/PDF417-ts/issues"
   },
-  "homepage": "https://github.com/ivanstnsk/PDF417-ts#readme"
+  "homepage": "https://github.com/ivanstnsk/PDF417-ts#readme",
+  "devDependencies": {
+    "typescript": "3.9.5"
+  }
 }
