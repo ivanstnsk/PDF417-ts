@@ -1,0 +1,1 @@
+export const test = (message: string) => `Test ${message}`; 
